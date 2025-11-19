@@ -111,7 +111,7 @@ export default function LandingPage() {
               price: "$1,999",
               rating: 5,
               reviewCount: "8.2k",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34kFQ1mvageIxtFsoHwjFOCooyh/uploaded-1763565771524-5l6xzwr3.jpg",
+              videoSrc: "https://cdn.pixabay.com/video/2021/04/14/71100-537199861_large.mp4",
               imageAlt: "MacBook Pro 14-inch"
             },
             {
