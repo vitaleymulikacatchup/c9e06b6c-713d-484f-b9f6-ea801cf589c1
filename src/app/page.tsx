@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import { ThemeProvider } from "@/providers/themeProvider/ThemeProvider";
 import NavbarStyleApple from '@/components/navbar/NavbarStyleApple/NavbarStyleApple';
@@ -12,7 +12,7 @@ import TestimonialCardThree from '@/components/sections/testimonial/TestimonialC
 import FaqSplitMedia from '@/components/sections/faq/FaqSplitMedia';
 import ContactSplit from '@/components/sections/contact/ContactSplit';
 import FooterBase from '@/components/sections/footer/FooterBase';
-import { Award, BarChart3, Battery, Bell, CheckCircle, Cpu, DollarSign, HardDrive, HelpCircle, Laptop, MessageSquare, Monitor, Sparkles, Video, Zap } from "lucide-react";
+import { Award, BarChart3, Battery, Bell, Cpu, DollarSign, HardDrive, HelpCircle, Laptop, MessageSquare, Monitor, Sparkles, Video, Zap } from "lucide-react";
 
 export default function LandingPage() {
   return (
@@ -313,8 +313,6 @@ export default function LandingPage() {
 
       <div id="footer" data-section="footer">
         <FooterBase
-          brandName="MacBook Pro"
-          copyrightText="© 2025 | MacBook Pro Presentation"
           columns={[
             {
               title: "Product",
