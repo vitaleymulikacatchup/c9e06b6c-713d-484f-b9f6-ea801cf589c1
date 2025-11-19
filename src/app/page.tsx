@@ -51,7 +51,7 @@ export default function LandingPage() {
             { text: "Buy now", href: "pricing" },
             { text: "Learn more", href: "features" }
           ]}
-          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34kFQ1mvageIxtFsoHwjFOCooyh/uploaded-1763565760198-qw7hpvnz.jpg"
+          videoSrc="https://cdn.pixabay.com/video/2021/04/14/71100-537199861_large.mp4"
           imageAlt="MacBook Pro open showing vibrant display"
           frameStyle="card"
         />
