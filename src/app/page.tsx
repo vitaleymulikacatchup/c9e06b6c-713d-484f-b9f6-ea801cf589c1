@@ -302,7 +302,7 @@ export default function LandingPage() {
           tagIcon={Bell}
           title="Get the Latest MacBook Pro News"
           description="Subscribe to receive updates about new MacBook Pro models, features, and exclusive offers."
-          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34kFQ1mvageIxtFsoHwjFOCooyh/uploaded-1763565760198-qw7hpvnz.jpg"
+          videoSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34kFQ1mvageIxtFsoHwjFOCooyh/uploaded-1763570131769-7994c8zj.mp4"
           imageAlt="MacBook Pro newsletter signup"
           mediaPosition="right"
           inputPlaceholder="Enter your email address"
